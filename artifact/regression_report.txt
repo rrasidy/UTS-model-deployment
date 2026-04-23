@@ -1,0 +1,4 @@
+=== Regression Report ===
+MAE: 0.6036
+RMSE: 1.5696
+R2: 0.8354
